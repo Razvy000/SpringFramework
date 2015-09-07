@@ -1,0 +1,7 @@
+<bean id="..." class="exampleBean">
+   <property name="email" value=""/>
+</bean>
+
+<bean id="..." class="exampleBean">
+   <property name="email"><null/></property>
+</bean>
